@@ -1,0 +1,9 @@
+[template]
+name        = "Blank"
+description = "A blank project with no files. Perfect for adding support for your own language."
+icon        = "ewogICJ0aW1lc3RhbXAiIDogMTczNTQxMzM2ODY5OSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZTczZWM3NmJlNWViNjZmMmY4NjEyNzgzNWIzMWIyNGRjYTNkYjg3NGIzOTU2OTQ5NGM1MDcxZGViMmYyMzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0"
+advanced    = true
+
+exclude = [
+    "icon.png"
+]

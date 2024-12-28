@@ -1,0 +1,9 @@
+[template]
+name        = "WAT"
+description = "The Webassembly Text Format"
+icon        = "ewogICJ0aW1lc3RhbXAiIDogMTczNTQxMzI1OTAxMSwKICAicHJvZmlsZUlkIiA6ICJkNDAwODgyZmY3OGQ0ZGVhYjliMGNlMTc2YmQ1ZTQyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcmF4aWJldGwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmUyZjc4NWJmYWVmNmEwNTEyMzNjMzc0Zjk5OTM5YTI3MjE2NTJlN2IwYTVhODdmY2VmODBjYWNlZTlhMzIwNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+advanced    = true
+
+exclude = [
+    "icon.png"
+]

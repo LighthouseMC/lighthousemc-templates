@@ -1,0 +1,11 @@
+[template]
+name        = "Zig"
+description = "Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software."
+icon        = "ewogICJ0aW1lc3RhbXAiIDogMTczNTQxMzExMDQwOSwKICAicHJvZmlsZUlkIiA6ICI0ZGZkYjk4NDc5OTQ0NGMyYWRmOWMyM2M3Y2JiNDVlNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJvdmVyc2F3b2xmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZkY2I1NTRmZTI3MGJiNjJlMjhjMGI4NzVkNzQxYmZkZmE4MWQxNTdiMzNhYTg4ODI5MzYzYjY5MGJjY2Y1MmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ"
+homepage    = "https://ziglang.org"
+
+exclude = [
+    ".zig-cache",
+    "zig-out",
+    "icon.png"
+]
