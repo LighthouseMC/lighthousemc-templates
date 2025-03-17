@@ -1,5 +1,5 @@
 # This is where your code is. This is most likely necessary.
-cd /root/shared/code
+cd /root/shared/myplot
 
 
 
@@ -23,12 +23,12 @@ cd /root/shared/code
 #  https://webassembly.org/getting-started/developers-guide/
 
 # If you add support for a new language, consider contributing a PR at
-#  https://github.com/LighthouseMC/LighthouseTemplates
+#  https://github.com/LighthouseMC/lighthouse-templates
 
 
 
 # Move the output file to the correct location.
 # As soon as the target file exists, the build is considered to be completed and the VM is shut down.
-mv /root/shared/code/path/to/out.wasm /root/shared/out.wasm 
-#  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+mv /root/shared/myplot/path/to/out.wasm /root/shared/out.wasm 
+#  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 # Replace this path with the location of the output compiled WASM binary.

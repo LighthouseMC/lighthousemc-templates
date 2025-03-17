@@ -1,3 +1,3 @@
-export fn on_start() void {
+export fn _vx_on_plot_start() void {
     
 }

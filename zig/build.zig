@@ -3,7 +3,7 @@ const std = @import("std");
 
 pub fn build(b: *std.Build) void {
     const exe = b.addExecutable(.{
-        .name    = "subserver-source",
+        .name    = "myplot",
         .version = .{ .major = 0, .minor = 1, .patch = 0 },
 
         .root_source_file = b.path("src/lib.zig"),

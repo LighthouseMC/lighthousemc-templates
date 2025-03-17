@@ -1,4 +1,4 @@
 #[unsafe(no_mangle)]
-pub fn on_start() {
+pub fn _vx_on_plot_start() {
     
 }
