@@ -9,4 +9,5 @@ publish = false
 crate-type = [ "cdylib" ]
 
 
-[dependencies]
+[dependencies.lhmc-api-rs]
+git = "https://github.com/LighthouseMC/lhmc-api-rs.git"

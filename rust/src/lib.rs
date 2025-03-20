@@ -1,5 +1,4 @@
-mod lhmc;
-use lhmc::*;
+use lhmc_api_rs::prelude::*;
 use core::time::Duration;
 
 
